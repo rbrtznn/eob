@@ -1,3 +1,129 @@
+/* Paragraph utility classes */
+.body-text {
+    display: block;
+    font-size: 0.6em;
+    text-autospace: none;
+    text-indent: 0;
+    margin: 0;
+}
+
+.body-list {
+    display: list-item;
+    font-size: 0.6em;
+    text-autospace: none;
+    text-indent: 0;
+    margin: 0;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.align-justify {
+    text-align: justify;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.autospace-ideograph {
+    text-autospace: ideograph-numeric ideograph-other;
+}
+
+.mt-3-75 {
+    margin-top: 3.75pt;
+}
+
+.mt-6 {
+    margin-top: 6pt;
+}
+
+.mt-8 {
+    margin-top: 8pt;
+}
+
+.mt-10 {
+    margin-top: 10pt;
+}
+
+.mt-12 {
+    margin-top: 12pt;
+}
+
+.mb-6 {
+    margin-bottom: 6pt;
+}
+
+.mb-7 {
+    margin-bottom: 7pt;
+}
+
+.mb-8 {
+    margin-bottom: 8pt;
+}
+
+.mb-11-25 {
+    margin-bottom: 11.25pt;
+}
+
+.mb-12 {
+    margin-bottom: 12pt;
+}
+
+.ml-0-25in {
+    margin-left: 0.25in;
+}
+
+.ml-0-75in {
+    margin-left: 0.75in;
+}
+
+.ml-1in {
+    margin-left: 1in;
+}
+
+.ml-22-5pt {
+    margin-left: 22.5pt;
+}
+
+.ml-85-5pt {
+    margin-left: 85.5pt;
+}
+
+.ml-99pt {
+    margin-left: 99pt;
+}
+
+.mr-neg-30-6 {
+    margin-right: -30.6pt;
+}
+
+.indent-3pct {
+    text-indent: 3%;
+}
+
+.indent-9pt {
+    text-indent: 9pt;
+}
+
+.hang-indent {
+    text-indent: -0.25in;
+}
+
+.pt-1 {
+    padding-top: 1pt;
+}
+
+.no-border {
+    border: none;
+    padding: 0;
+}
+
+.avoid-break {
+    page-break-after: avoid;
+}
+
 .belllist {
     display: block;
     font-size: 0.6em;
@@ -1792,282 +1918,7 @@
     vertical-align: super;
     font-size: 0.8em;
 }
-.msonormal {
-    display: block;
-    font-size: 0.6em;
-    text-align: center;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 6pt 0 0.0001pt
-    }
-.msonormal1 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 6pt 0 0.0001pt
-    }
-.msonormal2 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 0 0 0.0001pt
-    }
-.msonormal3 {
-    display: block;
-    font-size: 0.6em;
-    padding-top: 1pt;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 6pt 0 0.0001pt
-    }
-.msonormal4 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 10pt 0 8pt
-    }
-.msonormal5 {
-    display: block;
-    font-size: 0.6em;
-    text-align: left;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 0 0 0.0001pt
-    }
-.msonormal6 {
-    display: block;
-    font-size: 0.6em;
-    text-align: center;
-    text-autospace: ideograph-numeric ideograph-other;
-    text-indent: 0;
-    margin: 0 0 0.0001pt
-    }
-.msonormal7 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 9pt;
-    border: currentColor none medium;
-    padding: 0;
-    margin: 6pt 0 0.0001pt
-    }
-.msonormal8 {
-    display: list-item;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: ideograph-numeric ideograph-other;
-    text-indent: 0;
-    margin: 0 0 0.0001pt
-    }
-.msonormal9 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: ideograph-numeric ideograph-other;
-    text-indent: 0;
-    margin: 0 0 0.0001pt
-    }
-.msonormal10 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 3%;
-    margin: 6pt 0 0.0001pt
-    }
-.msonormal11 {
-    display: block;
-    font-size: 0.6em;
-    text-align: left;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 6pt 0 0.0001pt
-    }
-.msonormal12 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 6pt 0
-    }
-.msonormal13 {
-    display: block;
-    font-size: 0.6em;
-    text-align: center;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 0 0 0.0001pt
-    }
-.msonormal14 {
-    display: block;
-    font-size: 0.6em;
-    text-align: left;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 6pt 0
-    }
-.msonormal15 {
-    display: block;
-    font-size: 0.6em;
-    text-align: left;
-    text-autospace: ideograph-numeric ideograph-other;
-    text-indent: 0;
-    margin: 0 0 0.0001pt
-    }
-.msonormal16 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 6pt 0 8pt
-    }
-.msonormal17 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 8pt 0 0.0001pt
-    }
-.msonormal18 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 6pt 0 0.0001pt 0.25in
-    }
-.msonormal19 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 6pt 0 0.0001pt 0.75in
-    }
-.msonormal20 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 6pt 0 0.0001pt 85.5pt
-    }
-.msonormal21 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 3%;
-    margin: 6pt 0 0.0001pt 99pt
-    }
-.msonormal22 {
-    display: block;
-    font-size: 0.6em;
-    text-align: left;
-    text-autospace: ideograph-numeric ideograph-other;
-    text-indent: 0;
-    margin: 6pt 0 0.0001pt
-    }
-.msonormal23 {
-    display: list-item;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 6pt 0 0.0001pt
-    }
-.msonormal24 {
-    display: list-item;
-    font-size: 0.6em;
-    text-align: left;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 6pt 0 0.0001pt
-    }
-.msonormal25 {
-    display: list-item;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 0 0 0.0001pt
-    }
-.msonormal26 {
-    display: block;
-    font-size: 0.6em;
-    text-align: center;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 3.75pt 0 11.25pt
-    }
-.msonormal27 {
-    display: block;
-    font-size: 0.6em;
-    text-align: left;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 3.75pt 0 11.25pt
-    }
-.msonormal28 {
-    display: block;
-    font-size: 0.6em;
-    page-break-after: avoid;
-    text-align: center;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 6pt 0 0.0001pt
-    }
-.msonormal29 {
-    display: block;
-    font-size: 0.6em;
-    text-align: center;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 12pt 0
-    }
-.msonormal30 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 12pt 0
-    }
-.msonormal31 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: ideograph-numeric ideograph-other;
-    text-indent: -0.25in;
-    margin: 0 0 7pt 1in
-    }
-.msonormal32 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 9pt;
-    margin: 6pt 0 0.0001pt 22.5pt
-    }
-.msonormal33 {
-    display: block;
-    font-size: 0.6em;
-    text-align: justify;
-    text-autospace: none;
-    text-indent: 0;
-    margin: 6pt -30.6pt 0.0001pt 0
-    }
+
 .msonormaltable {
     border-collapse: separate;
     border-spacing: 2px;
