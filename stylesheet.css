@@ -208,7 +208,7 @@
     line-height: 1.2;
     vertical-align: super
     }
-.calibre24 {
+.section-heading {
     display: block;
     font-size: 0.775em;
     font-weight: bold;
@@ -893,18 +893,6 @@
     border-bottom: currentColor solid 1pt;
     border-left: currentColor none medium;
     padding: 0 5.4pt
-    }
-.calibre109 {
-    display: block;
-    font-size: 0.775em;
-    font-weight: bold;
-    line-height: 1.2;
-    page-break-after: avoid;
-    text-autospace: none;
-    text-decoration: underline;
-    text-indent: 0;
-    text-transform: uppercase;
-    margin: 12pt 0
     }
 .calibre110 {
     border-collapse: separate;
