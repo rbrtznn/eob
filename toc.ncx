@@ -1,0 +1,1737 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="4609afe1-8709-4094-b8c8-9f4d5e3c6402"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (8.8.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>EOB · The Eastern Greek Orthodox New Testament · Based on the Official Text of the Greek Orthodox Church (Patriarchal Text of 1904)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>THE GREEK ALPHABET</text>
+      </navLabel>
+      <content src="text/part0000_split_003.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>MANUSCRIPT CODES</text>
+      </navLabel>
+      <content src="text/part0000_split_004.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>ABOUT THE EOB NEW TESTAMENT</text>
+      </navLabel>
+      <content src="text/part0000_split_005.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>INTRODUCTION TO THE SYNOPTIC GOSPELS AND ACTS</text>
+      </navLabel>
+      <content src="text/part0000_split_023.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>(ACCORDING TO) MATTHEW (ΚΑΤΑ ΜΑΤΘΑΙΟΝ)</text>
+      </navLabel>
+      <content src="text/part0000_split_027.html"/>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_027.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_027.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_027.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_027.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_027.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0000_split_027.html#toc_6"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0000_split_027.html#toc_7"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0000_split_027.html#toc_8"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0000_split_027.html#toc_9"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0000_split_027.html#toc_10"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0000_split_027.html#toc_11"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0000_split_027.html#toc_24"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0000_split_027.html#toc_25"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0000_split_027.html#toc_26"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="20">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0000_split_027.html#toc_27"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0000_split_028.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part0000_split_028.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part0000_split_028.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="24">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part0000_split_028.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part0000_split_028.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part0000_split_028.html#toc_6"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>Chapter 22</text>
+        </navLabel>
+        <content src="text/part0000_split_028.html#toc_7"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>Chapter 23</text>
+        </navLabel>
+        <content src="text/part0000_split_028.html#toc_8"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="29">
+        <navLabel>
+          <text>Chapter 24</text>
+        </navLabel>
+        <content src="text/part0000_split_028.html#toc_9"/>
+      </navPoint>
+      <navPoint id="num_30" playOrder="30">
+        <navLabel>
+          <text>Chapter 25</text>
+        </navLabel>
+        <content src="text/part0000_split_028.html#toc_10"/>
+      </navPoint>
+      <navPoint id="num_31" playOrder="31">
+        <navLabel>
+          <text>Chapter 26</text>
+        </navLabel>
+        <content src="text/part0000_split_028.html#toc_11"/>
+      </navPoint>
+      <navPoint id="num_32" playOrder="32">
+        <navLabel>
+          <text>Chapter 27</text>
+        </navLabel>
+        <content src="text/part0000_split_028.html#toc_12"/>
+      </navPoint>
+      <navPoint id="num_33" playOrder="33">
+        <navLabel>
+          <text>Chapter 28</text>
+        </navLabel>
+        <content src="text/part0000_split_028.html#toc_13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>(ACCORDING TO) MARK (ΚΑΤΑ ΜΑΡΚΟΝ)</text>
+      </navLabel>
+      <content src="text/part0000_split_029.html"/>
+      <navPoint id="num_35" playOrder="35">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_36" playOrder="36">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_37" playOrder="37">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_38" playOrder="38">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_39" playOrder="39">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_40" playOrder="40">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_6"/>
+      </navPoint>
+      <navPoint id="num_41" playOrder="41">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_7"/>
+      </navPoint>
+      <navPoint id="num_42" playOrder="42">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_8"/>
+      </navPoint>
+      <navPoint id="num_43" playOrder="43">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_9"/>
+      </navPoint>
+      <navPoint id="num_44" playOrder="44">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_10"/>
+      </navPoint>
+      <navPoint id="num_45" playOrder="45">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_11"/>
+      </navPoint>
+      <navPoint id="num_46" playOrder="46">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_12"/>
+      </navPoint>
+      <navPoint id="num_47" playOrder="47">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_13"/>
+      </navPoint>
+      <navPoint id="num_48" playOrder="48">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_14"/>
+      </navPoint>
+      <navPoint id="num_49" playOrder="49">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_15"/>
+      </navPoint>
+      <navPoint id="num_50" playOrder="50">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0000_split_029.html#toc_16"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_51" playOrder="51">
+      <navLabel>
+        <text>(ACCORDING TO) LUKE (ΚΑΤΑ ΛΟΥΚΑΝ)</text>
+      </navLabel>
+      <content src="text/part0000_split_030.html"/>
+      <navPoint id="num_52" playOrder="52">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_030.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_53" playOrder="53">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_030.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_54" playOrder="54">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_030.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_55" playOrder="55">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_030.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_56" playOrder="56">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_030.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_57" playOrder="57">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0000_split_030.html#toc_6"/>
+      </navPoint>
+      <navPoint id="num_58" playOrder="58">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0000_split_030.html#toc_7"/>
+      </navPoint>
+      <navPoint id="num_59" playOrder="59">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0000_split_030.html#toc_8"/>
+      </navPoint>
+      <navPoint id="num_60" playOrder="60">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0000_split_030.html#toc_9"/>
+      </navPoint>
+      <navPoint id="num_61" playOrder="61">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0000_split_030.html#toc_10"/>
+      </navPoint>
+      <navPoint id="num_62" playOrder="62">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0000_split_031.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_63" playOrder="63">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0000_split_031.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_64" playOrder="64">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0000_split_031.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_65" playOrder="65">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0000_split_031.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_66" playOrder="66">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0000_split_031.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_67" playOrder="67">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0000_split_031.html#toc_6"/>
+      </navPoint>
+      <navPoint id="num_68" playOrder="68">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part0000_split_031.html#toc_7"/>
+      </navPoint>
+      <navPoint id="num_69" playOrder="69">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part0000_split_031.html#toc_8"/>
+      </navPoint>
+      <navPoint id="num_70" playOrder="70">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part0000_split_031.html#toc_9"/>
+      </navPoint>
+      <navPoint id="num_71" playOrder="71">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part0000_split_031.html#toc_10"/>
+      </navPoint>
+      <navPoint id="num_72" playOrder="72">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part0000_split_031.html#toc_11"/>
+      </navPoint>
+      <navPoint id="num_73" playOrder="73">
+        <navLabel>
+          <text>Chapter 22</text>
+        </navLabel>
+        <content src="text/part0000_split_031.html#toc_12"/>
+      </navPoint>
+      <navPoint id="num_74" playOrder="74">
+        <navLabel>
+          <text>Chapter 23</text>
+        </navLabel>
+        <content src="text/part0000_split_031.html#toc_13"/>
+      </navPoint>
+      <navPoint id="num_75" playOrder="75">
+        <navLabel>
+          <text>Chapter 24</text>
+        </navLabel>
+        <content src="text/part0000_split_031.html#toc_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_76" playOrder="76">
+      <navLabel>
+        <text>INTRODUCTION TO THE GOSPEL OF JOHN</text>
+      </navLabel>
+      <content src="text/part0000_split_032.html"/>
+    </navPoint>
+    <navPoint id="num_77" playOrder="77">
+      <navLabel>
+        <text>(ACCORDING TO) JOHN (ΚΑΤΑ ΙΩΑΝΝΗΝ)</text>
+      </navLabel>
+      <content src="text/part0000_split_035.html"/>
+      <navPoint id="num_78" playOrder="78">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_79" playOrder="79">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_80" playOrder="80">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_81" playOrder="81">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_82" playOrder="82">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_83" playOrder="83">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_6"/>
+      </navPoint>
+      <navPoint id="num_84" playOrder="84">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_7"/>
+      </navPoint>
+      <navPoint id="num_85" playOrder="85">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_8"/>
+      </navPoint>
+      <navPoint id="num_86" playOrder="86">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_9"/>
+      </navPoint>
+      <navPoint id="num_87" playOrder="87">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_10"/>
+      </navPoint>
+      <navPoint id="num_88" playOrder="88">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_11"/>
+      </navPoint>
+      <navPoint id="num_89" playOrder="89">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_12"/>
+      </navPoint>
+      <navPoint id="num_90" playOrder="90">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_13"/>
+      </navPoint>
+      <navPoint id="num_91" playOrder="91">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_14"/>
+      </navPoint>
+      <navPoint id="num_92" playOrder="92">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_15"/>
+      </navPoint>
+      <navPoint id="num_93" playOrder="93">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_16"/>
+      </navPoint>
+      <navPoint id="num_94" playOrder="94">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_17"/>
+      </navPoint>
+      <navPoint id="num_95" playOrder="95">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_18"/>
+      </navPoint>
+      <navPoint id="num_96" playOrder="96">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_19"/>
+      </navPoint>
+      <navPoint id="num_97" playOrder="97">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_20"/>
+      </navPoint>
+      <navPoint id="num_98" playOrder="98">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part0000_split_035.html#toc_21"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_99" playOrder="99">
+      <navLabel>
+        <text>ACTS OF THE APOSTLES (ΠΡΑΞΕΙΣ ΤΩΝ ΑΠΟΣΤΟΛΩΝ)</text>
+      </navLabel>
+      <content src="text/part0000_split_036.html"/>
+      <navPoint id="num_100" playOrder="100">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_101" playOrder="101">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_102" playOrder="102">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_103" playOrder="103">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_104" playOrder="104">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_105" playOrder="105">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_6"/>
+      </navPoint>
+      <navPoint id="num_106" playOrder="106">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_7"/>
+      </navPoint>
+      <navPoint id="num_107" playOrder="107">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_8"/>
+      </navPoint>
+      <navPoint id="num_108" playOrder="108">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_9"/>
+      </navPoint>
+      <navPoint id="num_109" playOrder="109">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_10"/>
+      </navPoint>
+      <navPoint id="num_110" playOrder="110">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_11"/>
+      </navPoint>
+      <navPoint id="num_111" playOrder="111">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_12"/>
+      </navPoint>
+      <navPoint id="num_112" playOrder="112">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_13"/>
+      </navPoint>
+      <navPoint id="num_113" playOrder="113">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_14"/>
+      </navPoint>
+      <navPoint id="num_114" playOrder="114">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_15"/>
+      </navPoint>
+      <navPoint id="num_115" playOrder="115">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_16"/>
+      </navPoint>
+      <navPoint id="num_116" playOrder="116">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_17"/>
+      </navPoint>
+      <navPoint id="num_117" playOrder="117">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_18"/>
+      </navPoint>
+      <navPoint id="num_118" playOrder="118">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_19"/>
+      </navPoint>
+      <navPoint id="num_119" playOrder="119">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_20"/>
+      </navPoint>
+      <navPoint id="num_120" playOrder="120">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_21"/>
+      </navPoint>
+      <navPoint id="num_121" playOrder="121">
+        <navLabel>
+          <text>Chapter 22</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_22"/>
+      </navPoint>
+      <navPoint id="num_122" playOrder="122">
+        <navLabel>
+          <text>Chapter 23</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_23"/>
+      </navPoint>
+      <navPoint id="num_123" playOrder="123">
+        <navLabel>
+          <text>Chapter 24</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_24"/>
+      </navPoint>
+      <navPoint id="num_124" playOrder="124">
+        <navLabel>
+          <text>Chapter 25</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_25"/>
+      </navPoint>
+      <navPoint id="num_125" playOrder="125">
+        <navLabel>
+          <text>Chapter 26</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_26"/>
+      </navPoint>
+      <navPoint id="num_126" playOrder="126">
+        <navLabel>
+          <text>Chapter 27</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_27"/>
+      </navPoint>
+      <navPoint id="num_127" playOrder="127">
+        <navLabel>
+          <text>Chapter 28</text>
+        </navLabel>
+        <content src="text/part0000_split_036.html#toc_28"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_128" playOrder="128">
+      <navLabel>
+        <text>INTRODUCTION TO THE PAULINE EPISTLES</text>
+      </navLabel>
+      <content src="text/part0000_split_037.html"/>
+    </navPoint>
+    <navPoint id="num_129" playOrder="129">
+      <navLabel>
+        <text>Romans (ΠΡΟΣ ΡΩΜΑΙΟΥΣ)</text>
+      </navLabel>
+      <content src="text/part0000_split_041.html"/>
+      <navPoint id="num_130" playOrder="130">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_131" playOrder="131">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_132" playOrder="132">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_133" playOrder="133">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_134" playOrder="134">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_135" playOrder="135">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_6"/>
+      </navPoint>
+      <navPoint id="num_136" playOrder="136">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_7"/>
+      </navPoint>
+      <navPoint id="num_137" playOrder="137">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_8"/>
+      </navPoint>
+      <navPoint id="num_138" playOrder="138">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_9"/>
+      </navPoint>
+      <navPoint id="num_139" playOrder="139">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_10"/>
+      </navPoint>
+      <navPoint id="num_140" playOrder="140">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_11"/>
+      </navPoint>
+      <navPoint id="num_141" playOrder="141">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_12"/>
+      </navPoint>
+      <navPoint id="num_142" playOrder="142">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_13"/>
+      </navPoint>
+      <navPoint id="num_143" playOrder="143">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_14"/>
+      </navPoint>
+      <navPoint id="num_144" playOrder="144">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_15"/>
+      </navPoint>
+      <navPoint id="num_145" playOrder="145">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0000_split_041.html#toc_16"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_146" playOrder="146">
+      <navLabel>
+        <text>1 Corinthians (ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α)</text>
+      </navLabel>
+      <content src="text/part0000_split_042.html"/>
+      <navPoint id="num_147" playOrder="147">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html"/>
+      </navPoint>
+      <navPoint id="num_148" playOrder="148">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_149" playOrder="149">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_150" playOrder="150">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_151" playOrder="151">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_152" playOrder="152">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html#toc_6"/>
+      </navPoint>
+      <navPoint id="num_153" playOrder="153">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html#toc_7"/>
+      </navPoint>
+      <navPoint id="num_154" playOrder="154">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html#toc_8"/>
+      </navPoint>
+      <navPoint id="num_155" playOrder="155">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html#toc_9"/>
+      </navPoint>
+      <navPoint id="num_156" playOrder="156">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html#toc_10"/>
+      </navPoint>
+      <navPoint id="num_157" playOrder="157">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html#toc_11"/>
+      </navPoint>
+      <navPoint id="num_158" playOrder="158">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html#toc_12"/>
+      </navPoint>
+      <navPoint id="num_159" playOrder="159">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html#toc_13"/>
+      </navPoint>
+      <navPoint id="num_160" playOrder="160">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html#toc_14"/>
+      </navPoint>
+      <navPoint id="num_161" playOrder="161">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html#toc_15"/>
+      </navPoint>
+      <navPoint id="num_162" playOrder="162">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0000_split_042.html#toc_16"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_163" playOrder="163">
+      <navLabel>
+        <text>2 Corinthians (ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β)</text>
+      </navLabel>
+      <content src="text/part0000_split_043.html"/>
+      <navPoint id="num_164" playOrder="164">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_043.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_165" playOrder="165">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_043.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_166" playOrder="166">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_043.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_167" playOrder="167">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_043.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_168" playOrder="168">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_043.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_169" playOrder="169">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0000_split_043.html#toc_6"/>
+      </navPoint>
+      <navPoint id="num_170" playOrder="170">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0000_split_043.html#toc_7"/>
+      </navPoint>
+      <navPoint id="num_171" playOrder="171">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0000_split_043.html#toc_8"/>
+      </navPoint>
+      <navPoint id="num_172" playOrder="172">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0000_split_043.html#toc_9"/>
+      </navPoint>
+      <navPoint id="num_173" playOrder="173">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0000_split_043.html#toc_10"/>
+      </navPoint>
+      <navPoint id="num_174" playOrder="174">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0000_split_043.html#toc_11"/>
+      </navPoint>
+      <navPoint id="num_175" playOrder="175">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0000_split_043.html#toc_12"/>
+      </navPoint>
+      <navPoint id="num_176" playOrder="176">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0000_split_043.html#toc_13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_177" playOrder="177">
+      <navLabel>
+        <text>Galatians (ΠΡΟΣ ΓΑΛΑΤΑΣ)</text>
+      </navLabel>
+      <content src="text/part0000_split_044.html"/>
+      <navPoint id="num_178" playOrder="178">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_044.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_179" playOrder="179">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_044.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_180" playOrder="180">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_044.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_181" playOrder="181">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_044.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_182" playOrder="182">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_044.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_183" playOrder="183">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0000_split_044.html#toc_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_184" playOrder="184">
+      <navLabel>
+        <text>Ephesians (ΠΡΟΣ ΕΦΕΣΙΟΥΣ)</text>
+      </navLabel>
+      <content src="text/part0000_split_045.html"/>
+      <navPoint id="num_185" playOrder="185">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_045.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_186" playOrder="186">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_045.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_187" playOrder="187">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_045.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_188" playOrder="188">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_045.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_189" playOrder="189">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_045.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_190" playOrder="190">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0000_split_045.html#toc_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_191" playOrder="191">
+      <navLabel>
+        <text>Philippians (ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ)</text>
+      </navLabel>
+      <content src="text/part0000_split_046.html"/>
+      <navPoint id="num_192" playOrder="192">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_046.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_193" playOrder="193">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_046.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_194" playOrder="194">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_046.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_195" playOrder="195">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_046.html#toc_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_196" playOrder="196">
+      <navLabel>
+        <text>Colossians (ΠΡΟΣ ΚΟΛOΣΣΑΕΙΣ)</text>
+      </navLabel>
+      <content src="text/part0000_split_047.html"/>
+      <navPoint id="num_197" playOrder="197">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_047.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_198" playOrder="198">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_047.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_199" playOrder="199">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_047.html#toc_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_200" playOrder="200">
+      <navLabel>
+        <text>1 Thessalonians (ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α)</text>
+      </navLabel>
+      <content src="text/part0000_split_048.html"/>
+      <navPoint id="num_201" playOrder="201">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_048.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_202" playOrder="202">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_048.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_203" playOrder="203">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_048.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_204" playOrder="204">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_048.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_205" playOrder="205">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_048.html#toc_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_206" playOrder="206">
+      <navLabel>
+        <text>2 Thessalonians (ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β)</text>
+      </navLabel>
+      <content src="text/part0000_split_049.html"/>
+      <navPoint id="num_207" playOrder="207">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_049.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_208" playOrder="208">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_049.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_209" playOrder="209">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_049.html#toc_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_210" playOrder="210">
+      <navLabel>
+        <text>1 Timothy (ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α)</text>
+      </navLabel>
+      <content src="text/part0000_split_050.html"/>
+      <navPoint id="num_211" playOrder="211">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_050.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_212" playOrder="212">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_050.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_213" playOrder="213">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_050.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_214" playOrder="214">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_050.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_215" playOrder="215">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_050.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_216" playOrder="216">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0000_split_050.html#toc_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_217" playOrder="217">
+      <navLabel>
+        <text>2 Timothy (ΠΡΟΣ ΤΙΜΟΘΕΟΝ B)</text>
+      </navLabel>
+      <content src="text/part0000_split_051.html"/>
+      <navPoint id="num_218" playOrder="218">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_051.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_219" playOrder="219">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_051.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_220" playOrder="220">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_051.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_221" playOrder="221">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_051.html#toc_4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_222" playOrder="222">
+      <navLabel>
+        <text>Titus (ΠΡΟΣ ΤΙΤΟΝ)</text>
+      </navLabel>
+      <content src="text/part0000_split_052.html"/>
+      <navPoint id="num_223" playOrder="223">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_052.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_224" playOrder="224">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_052.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_225" playOrder="225">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_052.html#toc_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_226" playOrder="226">
+      <navLabel>
+        <text>Philemon (ΠΡΟΣ ΦΙΛΗΜΟΝΑ)</text>
+      </navLabel>
+      <content src="text/part0000_split_053.html"/>
+    </navPoint>
+    <navPoint id="num_227" playOrder="227">
+      <navLabel>
+        <text>Hebrews (ΠΡΟΣ ΕΒΡΑΙΟΥΣ)</text>
+      </navLabel>
+      <content src="text/part0000_split_054.html"/>
+      <navPoint id="num_228" playOrder="228">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_054.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_229" playOrder="229">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_054.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_230" playOrder="230">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_054.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_231" playOrder="231">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_054.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_232" playOrder="232">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_054.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_233" playOrder="233">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0000_split_054.html#toc_6"/>
+      </navPoint>
+      <navPoint id="num_234" playOrder="234">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0000_split_054.html#toc_7"/>
+      </navPoint>
+      <navPoint id="num_235" playOrder="235">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0000_split_054.html#toc_8"/>
+      </navPoint>
+      <navPoint id="num_236" playOrder="236">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0000_split_054.html#toc_9"/>
+      </navPoint>
+      <navPoint id="num_237" playOrder="237">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0000_split_054.html#toc_10"/>
+      </navPoint>
+      <navPoint id="num_238" playOrder="238">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0000_split_054.html#toc_11"/>
+      </navPoint>
+      <navPoint id="num_239" playOrder="239">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0000_split_054.html#toc_12"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_240" playOrder="240">
+      <navLabel>
+        <text>INTRODUCTION TO THE OTHER EPISTLES</text>
+      </navLabel>
+      <content src="text/part0000_split_055.html"/>
+    </navPoint>
+    <navPoint id="num_241" playOrder="241">
+      <navLabel>
+        <text>JAMES (ΕΠΙΣΤΟΛΗ ΙΑΚΩΒΟΥ)</text>
+      </navLabel>
+      <content src="text/part0000_split_059.html"/>
+      <navPoint id="num_242" playOrder="242">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_059.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_243" playOrder="243">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_059.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_244" playOrder="244">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_059.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_245" playOrder="245">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_059.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_246" playOrder="246">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_059.html#toc_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_247" playOrder="247">
+      <navLabel>
+        <text>1 Peter (ΕΠΙΣΤΟΛΗ ΠΕΤΡΟΥ Α)</text>
+      </navLabel>
+      <content src="text/part0000_split_060.html"/>
+      <navPoint id="num_248" playOrder="248">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_060.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_249" playOrder="249">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_060.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_250" playOrder="250">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_060.html#toc_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_251" playOrder="251">
+      <navLabel>
+        <text>2 Peter (ΕΠΙΣΤΟΛΗ ΠΕΤΡΟΥ B)</text>
+      </navLabel>
+      <content src="text/part0000_split_061.html"/>
+      <navPoint id="num_252" playOrder="252">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_061.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_253" playOrder="253">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_061.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_254" playOrder="254">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_061.html#toc_3"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_255" playOrder="255">
+      <navLabel>
+        <text>1 John (ΕΠΙΣΤΟΛΗ ΙΩΑΝΝΟΥ Α)</text>
+      </navLabel>
+      <content src="text/part0000_split_062.html"/>
+      <navPoint id="num_256" playOrder="256">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_062.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_257" playOrder="257">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_062.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_258" playOrder="258">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_062.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_259" playOrder="259">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_062.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_260" playOrder="260">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_062.html#toc_5"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_261" playOrder="261">
+      <navLabel>
+        <text>2 John (ΕΠΙΣΤΟΛΗ ΙΩΑΝΝΟΥ b)</text>
+      </navLabel>
+      <content src="text/part0000_split_063.html"/>
+    </navPoint>
+    <navPoint id="num_262" playOrder="262">
+      <navLabel>
+        <text>3 John (ΕΠΙΣΤΟΛΗ ΙΩΑΝΝΟΥ Γ)</text>
+      </navLabel>
+      <content src="text/part0000_split_064.html"/>
+    </navPoint>
+    <navPoint id="num_263" playOrder="263">
+      <navLabel>
+        <text>Jude (ΕΠΙΣΤΟΛΗ ΙΟΥΔΑ)</text>
+      </navLabel>
+      <content src="text/part0000_split_065.html"/>
+    </navPoint>
+    <navPoint id="num_264" playOrder="264">
+      <navLabel>
+        <text>INTRODUCTION TO THE REVELATION OF JOHN</text>
+      </navLabel>
+      <content src="text/part0000_split_066.html"/>
+    </navPoint>
+    <navPoint id="num_265" playOrder="265">
+      <navLabel>
+        <text>REVELATION (ΙΩΑΝΝΟΥ ΑΠΟΚΑΛΥΨΙΣ)</text>
+      </navLabel>
+      <content src="text/part0000_split_073.html"/>
+      <navPoint id="num_266" playOrder="266">
+        <navLabel>
+          <text>Chapter 1</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_1"/>
+      </navPoint>
+      <navPoint id="num_267" playOrder="267">
+        <navLabel>
+          <text>Chapter 2</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_2"/>
+      </navPoint>
+      <navPoint id="num_268" playOrder="268">
+        <navLabel>
+          <text>Chapter 3</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_3"/>
+      </navPoint>
+      <navPoint id="num_269" playOrder="269">
+        <navLabel>
+          <text>Chapter 4</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_4"/>
+      </navPoint>
+      <navPoint id="num_270" playOrder="270">
+        <navLabel>
+          <text>Chapter 5</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_5"/>
+      </navPoint>
+      <navPoint id="num_271" playOrder="271">
+        <navLabel>
+          <text>Chapter 6</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_6"/>
+      </navPoint>
+      <navPoint id="num_272" playOrder="272">
+        <navLabel>
+          <text>Chapter 7</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_7"/>
+      </navPoint>
+      <navPoint id="num_273" playOrder="273">
+        <navLabel>
+          <text>Chapter 8</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_8"/>
+      </navPoint>
+      <navPoint id="num_274" playOrder="274">
+        <navLabel>
+          <text>Chapter 9</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_9"/>
+      </navPoint>
+      <navPoint id="num_275" playOrder="275">
+        <navLabel>
+          <text>Chapter 10</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_10"/>
+      </navPoint>
+      <navPoint id="num_276" playOrder="276">
+        <navLabel>
+          <text>Chapter 11</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_11"/>
+      </navPoint>
+      <navPoint id="num_277" playOrder="277">
+        <navLabel>
+          <text>Chapter 12</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_12"/>
+      </navPoint>
+      <navPoint id="num_278" playOrder="278">
+        <navLabel>
+          <text>Chapter 13</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_13"/>
+      </navPoint>
+      <navPoint id="num_279" playOrder="279">
+        <navLabel>
+          <text>Chapter 14</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_14"/>
+      </navPoint>
+      <navPoint id="num_280" playOrder="280">
+        <navLabel>
+          <text>Chapter 15</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_15"/>
+      </navPoint>
+      <navPoint id="num_281" playOrder="281">
+        <navLabel>
+          <text>Chapter 16</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_16"/>
+      </navPoint>
+      <navPoint id="num_282" playOrder="282">
+        <navLabel>
+          <text>Chapter 17</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_17"/>
+      </navPoint>
+      <navPoint id="num_283" playOrder="283">
+        <navLabel>
+          <text>Chapter 18</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_18"/>
+      </navPoint>
+      <navPoint id="num_284" playOrder="284">
+        <navLabel>
+          <text>Chapter 19</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_19"/>
+      </navPoint>
+      <navPoint id="num_285" playOrder="285">
+        <navLabel>
+          <text>Chapter 20</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_20"/>
+      </navPoint>
+      <navPoint id="num_286" playOrder="286">
+        <navLabel>
+          <text>Chapter 21</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_21"/>
+      </navPoint>
+      <navPoint id="num_287" playOrder="287">
+        <navLabel>
+          <text>Chapter 22</text>
+        </navLabel>
+        <content src="text/part0000_split_073.html#toc_22"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
