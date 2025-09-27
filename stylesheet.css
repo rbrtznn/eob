@@ -2246,28 +2246,14 @@
     text-indent: 0;
     margin: 6pt 0 0.0001pt
     }
-.style35ptloweredby1ptlinespacingexactly2445pt {
+.section {
     display: block;
-    font-size: 1.2em;
-    line-height: 1.2;
-    position: relative;
-    text-autospace: none;
-    text-indent: 0;
-    top: 1pt;
-    margin: 0 0 0.0001pt
+    line-height: 1.2
     }
-.style37ptbefore0ptloweredby6ptlinespacingexactl {
-    display: block;
-    font-size: 1.2em;
-    line-height: 1.2;
-    page-break-after: avoid;
-    position: relative;
-    text-autospace: none;
-    text-indent: 0;
-    top: 6pt;
-    margin: 0 0 0.0001pt
+.section + .section {
+    break-before: page
     }
-.style38ptloweredby2ptlinespacingexactly2445pt {
+.chapter-number {
     display: block;
     font-size: 1.2em;
     line-height: 1.2;
@@ -2275,267 +2261,38 @@
     position: relative;
     text-autospace: none;
     text-indent: 0;
-    top: 2pt;
-    margin: 0 0 0.0001pt
+    margin: 0
     }
-.style345ptloweredby15ptlinespacingexactly2445pt {
-    display: block;
-    font-size: 1.2em;
-    line-height: 1.2;
-    page-break-after: avoid;
-    position: relative;
-    text-autospace: none;
-    text-indent: 0;
-    top: 1.5pt;
-    margin: 0 0 0.0001pt
+.chapter-number--nudge-1 {
+    top: 1pt
     }
-.style365ptloweredby1ptlinespacingexactly2445pt {
-    display: block;
-    font-size: 1.2em;
-    line-height: 1.2;
-    page-break-after: avoid;
-    position: relative;
-    text-autospace: none;
-    text-indent: 0;
-    top: 1pt;
-    margin: 0 0 0.0001pt
+.chapter-number--nudge-1-5 {
+    top: 1.5pt
     }
-.style375ptbefore0ptloweredby7ptlinespacingexac {
-    display: block;
-    font-size: 1.2em;
-    line-height: 1.2;
-    page-break-after: avoid;
-    position: relative;
-    text-autospace: none;
-    text-indent: 0;
-    top: 7pt;
-    margin: 0 0 0.0001pt
+.chapter-number--nudge-2 {
+    top: 2pt
     }
-.style375ptloweredby15ptlinespacingexactly2445pt {
-    display: block;
-    font-size: 1.2em;
-    line-height: 1.2;
-    position: relative;
-    text-autospace: none;
-    text-indent: 0;
-    top: 1.5pt;
-    margin: 0 0 0.0001pt
+.chapter-number--nudge-6 {
+    top: 6pt
     }
-.stylefootnotereferencelatinitalicblack {
+.chapter-number--nudge-7 {
+    top: 7pt
+    }
+.footnote-ref {
     text-decoration: none;
     vertical-align: super
     }
-.stylefranklingothicbook10ptleft {
+.definition-term {
     display: block;
     font-size: 0.6em;
     text-indent: 0.2in;
-    margin: 0 0 0.0001pt
+    margin: 0
     }
-.stylefranklingothicbook10ptleft1 {
+.definition-detail {
     display: block;
     font-size: 0.6em;
     text-indent: 0;
-    margin: 0 0 0.0001pt
-    }
-.wordsection {
-    display: block;
-    line-height: 1.2;
-    page: WordSection1
-    }
-.wordsection1 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection2
-    }
-.wordsection2 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection3
-    }
-.wordsection3 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection4
-    }
-.wordsection4 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection5
-    }
-.wordsection5 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection6
-    }
-.wordsection6 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection7
-    }
-.wordsection7 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection8
-    }
-.wordsection8 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection9
-    }
-.wordsection9 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection10
-    }
-.wordsection10 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection11
-    }
-.wordsection11 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection12
-    }
-.wordsection12 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection13
-    }
-.wordsection13 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection14
-    }
-.wordsection14 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection15
-    }
-.wordsection15 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection16
-    }
-.wordsection16 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection17
-    }
-.wordsection17 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection18
-    }
-.wordsection18 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection19
-    }
-.wordsection19 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection20
-    }
-.wordsection20 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection21
-    }
-.wordsection21 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection22
-    }
-.wordsection22 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection23
-    }
-.wordsection23 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection24
-    }
-.wordsection24 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection25
-    }
-.wordsection25 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection26
-    }
-.wordsection26 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection27
-    }
-.wordsection27 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection28
-    }
-.wordsection28 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection29
-    }
-.wordsection29 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection30
-    }
-.wordsection30 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection31
-    }
-.wordsection31 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection32
-    }
-.wordsection32 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection33
-    }
-.wordsection33 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection34
-    }
-.wordsection34 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection35
-    }
-.wordsection35 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection36
-    }
-.wordsection36 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection37
-    }
-.wordsection37 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection38
-    }
-.wordsection38 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection39
-    }
-.wordsection39 {
-    display: block;
-    line-height: 1.2;
-    page: WordSection40
+    margin: 0
     }
 .pcalibre:visited {
     color: purple;
